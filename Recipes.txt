@@ -5,4 +5,7 @@ Welcome Hello
 Chicken
 Pasta
 
+Beans
+Pizza
+
 Thank you :)
